@@ -28,4 +28,5 @@
 ## 📊GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=colloid09&show_icons=true&locale=en&layout=compact" alt="colloid09" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=colloid09&show_icons=true&locale=en" alt="colloid09" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=colloid09&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="colloid09's GitHub Stats" /></p>
+
