@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Clyde Charles Coelho</h1>
 <h3 align="center">I'm an MCA student passionate about Python development, actively seeking opportunities as a Python Developer or DevOps Engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=colloid09&label=Profile%20views&color=0e75b6&style=flat" alt="colloid09" /> </p>
-
 <p align="left"> <a href="https://twitter.com/https://x.com/colloid_09?t=awolkn1jp6cx65mdrb3uaa&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/colloid_09?t=awolkn1jp6cx65mdrb3uaa&s=09?logo=twitter&style=for-the-badge" alt="https://x.com/colloid_09?t=awolkn1jp6cx65mdrb3uaa&s=09" /></a> </p>
 
 - 🔭 **Currently enhancing my skills in development.**
