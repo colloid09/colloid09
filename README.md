@@ -26,7 +26,9 @@
 <br>
 
 ## 📊GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=colloid09&show_icons=true&locale=en&layout=compact" alt="colloid09" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colloid09&theme=outrun&show_icons=true&hide_border=true&layout=compact" alt="colloid09's GitHub Stats" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=colloid09&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="colloid09's GitHub Stats" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=colloid09&theme=outrun&show_icons=true&hide_border=true&count_private=true" alt="colloid09's GitHub Stats" /></p>
+
+<p><img src="https://streak-stats.demolab.com?user=colloid09&theme=outrun&hide_border=true" alt="colloid09's GitHub Stats" /></p>
 
