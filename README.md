@@ -1,3 +1,10 @@
+
+
+
+
+https://github.com/user-attachments/assets/5f74169e-8564-45fc-8d36-a827371edb75
+
+
 <h1 align="center">Hey 👋, I'm Clyde Charles Coelho</h1>
 <h3 align="center">I'm an MCA student passionate about Python development, actively seeking opportunities as a Python Developer or DevOps Engineer.</h3>
 
