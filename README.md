@@ -1,6 +1,3 @@
-![github](https://github.com/user-attachments/assets/1c74798d-9352-4585-8a8a-03d272d847c9)
-
-
 <h1 align="center">Hey 👋, I'm Clyde Charles Coelho</h1>
 <h3 align="center">I'm an MCA student passionate about Python development, actively seeking opportunities as a Python Developer or DevOps Engineer.</h3>
 
